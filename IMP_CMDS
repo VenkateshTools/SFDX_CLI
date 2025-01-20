@@ -1,0 +1,3 @@
+Delete an authorised org
+
+sf org logout --target-org <ALIAS_NAME> --no-prompt
